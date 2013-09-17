@@ -9,6 +9,7 @@ Bypass button (digital input)
 Outputs
 -------
 Wireless transmitter (serial output)
+Light break detector (digital output - 38 KHz)
 x2 - LED strips (serial output)
 
 Day in the Life
